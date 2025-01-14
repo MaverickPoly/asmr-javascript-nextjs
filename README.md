@@ -46,7 +46,7 @@ Create a website with:
 ## How to Use This Repository
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/asmr-javascript-nextJs.git
+   git clone https://github.com/your-username/asmr-javascript-nextjs.git
    ```
 2. Navigate to the repository folder:
    ```bash
